@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <theme>standard</theme>
+    <encoding>utf-8</encoding>
+    <documentTitle>My Extent Report</documentTitle>
+    <reportName>Automation Test Results</reportName>
+    <timelineEnabled>true</timelineEnabled>
+</configuration>
